@@ -1,0 +1,51 @@
+/*
+Site css file
+*/
+/* 
+    Created on : 17-Nov-2015, 16:27:24
+    Author     : Ian
+*/
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #565C5E;
+}
+.header {
+    background: #20527F;
+    margin: 0px;
+    padding: 0px;
+}
+.header h1 {
+    color: #ffffff;
+    padding: 5px 0px 10px 0px;
+}
+.content {
+    
+}
+.panel-default> .panel-heading {
+    background: #81BF88;
+    font-weight: 600;
+}
+.panel-body a {
+    color: #20527F;
+    
+}
+.panel-body a:hover {
+    color: #B24926 ;
+    text-decoration: none;
+}
+.rows {
+    background: #ffffff;
+    min-height: 800px;
+    padding-top: 40px;
+}
+.footer > .container {
+    background: #0769AD;
+    height: 60px;
+    padding: 20px 0px 20px 0px;
+    color: #ffffff;
+    margin: auto;
+}
+.center {
+    text-align: center;
+}

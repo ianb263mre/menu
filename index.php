@@ -33,7 +33,9 @@ and open the template in the editor.
                             <div class="panel-body">
                                 <p><a href="http://localhost/phpmyadmin" target="blank">phpMyadmin</a></p>
                                 <p><a href="https://my.justhost.com/web-hosting/cplogin" target="blank">Just host login</a></p>
-                                <p><a href="https://github.com/" target="blank">GitHub</a></p> 
+                                <p><a href="https://github.com/" target="blank">GitHub</a></p>
+                                <p><a href="http://localhost/basic_site/" target="new">Basic Site</a></p>
+                                <p><a href="http://localhost/basic_site/admin" target="new">Basic Site Admin</a></p>
                             </div>
                         </div>
                     </div>
@@ -71,6 +73,7 @@ and open the template in the editor.
                                 <p><a href="http://www.w3schools.com/php/default.asp" target="blank">PHP</a></p>
                                 <p><a href="http://www.w3schools.com/bootstrap/default.asp" target="blank">Bootstrap</a></p>
                                 <p><a href="http://www.w3schools.com/jquery/default.asp" target="blank">Jquery</a></p>
+                                <p><a href="http://www.w3schools.com/ajax/default.asp" target="blank">Ajax</a></p>
                             </div>
                         </div>
                     </div>
